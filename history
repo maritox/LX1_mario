@@ -1,0 +1,164 @@
+    1  ssh sysdmin@10.124.18.92
+    2  toor
+    3  ssh sysdmin@10.124.18.92
+    4  exit
+    5  ssh sysadmin@10.124.18.92
+    6  ls
+    7  ls-la
+    8  ls-l
+    9  ls -la
+   10  sudo fdisk -lh
+   11  root
+   12  sudo fdisk -lh
+   13  root}
+   14  sudo fdisk -lh
+   15  t
+   16  /etc$ cd init.d/
+   17  /etc/init.d$
+   18  /etc/init.d$ ls -a
+   19  sudo fdisk -lh
+   20  /etc/init.d$
+   21  /test1$ ls
+   22  /etc/init.$ ls /home
+   23  /etc/init.$ cd
+   24  pwd
+   25  mkdir test
+   26  ls
+   27  cd test
+   28  pwd
+   29  ls -l
+   30  ls -la
+   31  cp /etc/network/interface .
+   32  mkdir -p usuario{a,b}/docs/doc{1,2,3}
+   33  ls
+   34  tree
+   35  ls
+   36  mkdir .testrc
+   37  touch .test1.doc.sanpedro
+   38  ls -a
+   39  ls
+   40  ls -la
+   41  ls -lh
+   42  mcp
+   43  Mcp
+   44  man cp
+   45  cp .test1.doc.sanpedro usuarioa/docs/doc2
+   46  cp .test1.doc.sanpedro usuarioa/docs/doc2/
+   47  tree
+   48  history 
+   49  cd
+   50  vim.bash_
+   51  history 
+   52  vim.bach_
+   53  exid
+   54  exit
+   55  ls -a
+   56  vim .bash_
+   57  history 
+   58  vim .bash_
+   59  history 
+   60  history > history_Clase2.txt
+   61  ls -l
+   62  mount
+   63  ip -4 addr
+   64  ssh l2uk@10.124.18.137
+   65  tree
+   66  scp l2uk@10.124.18.137:walter .
+   67  scp l2uk@10.124.18.137:/etc/network/interface ../
+   68  ls -la | head
+   69  scp l2uk@10.124.18.137:/etc/network/passwd ../
+   70  test1
+   71  test1>
+   72  /test1
+   73  /test1 >
+   74  ls 
+   75  test
+   76  pwd
+   77  ls -la
+   78  cd test
+   79  scp l2uk@10.124.18.137:/etc/network/interface ../
+   80  scp l2uk@10.124.18.137:/etc/network/passwd ../
+   81  pwd
+   82  cd ..
+   83  ls
+   84  cd test
+   85  scp l2uk@10.124.18.137:/etc/network/passwd ./
+   86  scp l2uk@10.124.18.137:/etc/network/interfaces .
+   87  tree
+   88  ip -4 addr
+   89  apt-get install tree
+   90  sudo apt-get install tree
+   91  tree -l 1 /
+   92  cd /usr/share/doc/tr
+   93  exit
+   94  wget https://ftp.drupal.org/files/projects/drupal-7.43.tar.gz
+   95  ls
+   96  apt-cache search openssh | less
+   97  sudo apt-cache search openssh | server
+   98  sudo apt-get install mysql php5 apache2 php5-mysql
+   99  sudo apt-get install mysql php5 apache2 php5 mysql-server
+  100  sudo apt-get install mysql php5 apache2 php5-mysql-server
+  101  sudo apt-get install mysql php5 apache2 php5 mysql-server
+  102  sudo apt-get install mysql-server php5 apache2 php5 mysql
+  103  sudo apt-get install mysql-server php5 apache2 php5-mysql
+  104  sudo 
+  105  ps aux | grep apa
+  106  ps aux | grep mys
+  107  ps aux | grep mysq
+  108  sudo apt-get install mysql-server
+  109  #tar -xzf drupal -7 
+  110  sudo -su
+  111  su -
+  112  cd /var/www/
+  113  ls
+  114  sudo su -
+  115  exit
+  116  tree
+  117  /var/www# tree
+  118  vim html/index.html
+  119  /var/www/html# ls -l
+  120  /var/www/html# ls -
+  121  /var/www/html# ls 
+  122  sudo -su
+  123  sudo - s
+  124  sudo - su
+  125  sudo -su
+  126  sudo - su
+  127  sudo - s
+  128  exit
+  129  cd /var/www/
+  130  /var/www/html#
+  131  cd /var/www/html
+  132  cd
+  133  exit
+  134  wget https://ftp.drupal.org/files/projects/drupal-7.43.tar.gz
+  135  cd /home
+  136  wget https://ftp.drupal.org/files/projects/drupal-7.43.tar.gz
+  137  cd+}
+  138  cd
+  139  ls-l
+  140  ls -l
+  141  sudo su-
+  142  cd /var/www
+  143  pwd
+  144  ls -l
+  145  exit
+  146  sudo su -
+  147  }
+  148  sudo / s
+  149  sudo - s
+  150  sudo -s
+  151  lscpu
+  152  less /proc/cpuinfo
+  153  sudo su -
+  154  sudo apt-get install git
+  155  demsty
+  156  demst
+  157  dmesg 
+  158  mkdir  LX1_mario
+  159  cd / LX1_mario/
+  160  cd /LX1_mario/
+  161  exit
+  162  cd LX1_mario
+  163  git init
+  164  history >history
