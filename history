@@ -162,3 +162,24 @@
   162  cd LX1_mario
   163  git init
   164  history >history
+  165  ls
+  166  ls -la
+  167  touch file1
+  168  touch file2
+  169  mkdir dir1
+  170  dir1/file1
+  171  git add history
+  172  git status 
+  173  git commit  -m "Inicializacion del arbol de desarrollo"
+  174  git config --global user.email "maalberto17@gmail.com"
+  175  git config --global user.name "Mario Alfaro V"
+  176  git status
+  177  git commit  -m "Inicializacion del arbol de desarrollo"
+  178  git commit --amend  -reset -auto
+  179  git commit --amend  -reset auto
+  180  git commit --amend  -resetauto
+  181  ls -la
+  182  tree
+  183  cat $HOSTMANE
+  184  cat $hostname
+  185  history >history 
