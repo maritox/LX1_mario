@@ -1,0 +1,243 @@
+    1  ssh sysdmin@10.124.18.92
+    2  toor
+    3  ssh sysdmin@10.124.18.92
+    4  exit
+    5  ssh sysadmin@10.124.18.92
+    6  ls
+    7  ls-la
+    8  ls-l
+    9  ls -la
+   10  sudo fdisk -lh
+   11  root
+   12  sudo fdisk -lh
+   13  root}
+   14  sudo fdisk -lh
+   15  t
+   16  /etc$ cd init.d/
+   17  /etc/init.d$
+   18  /etc/init.d$ ls -a
+   19  sudo fdisk -lh
+   20  /etc/init.d$
+   21  /test1$ ls
+   22  /etc/init.$ ls /home
+   23  /etc/init.$ cd
+   24  pwd
+   25  mkdir test
+   26  ls
+   27  cd test
+   28  pwd
+   29  ls -l
+   30  ls -la
+   31  cp /etc/network/interface .
+   32  mkdir -p usuario{a,b}/docs/doc{1,2,3}
+   33  ls
+   34  tree
+   35  ls
+   36  mkdir .testrc
+   37  touch .test1.doc.sanpedro
+   38  ls -a
+   39  ls
+   40  ls -la
+   41  ls -lh
+   42  mcp
+   43  Mcp
+   44  man cp
+   45  cp .test1.doc.sanpedro usuarioa/docs/doc2
+   46  cp .test1.doc.sanpedro usuarioa/docs/doc2/
+   47  tree
+   48  history 
+   49  cd
+   50  vim.bash_
+   51  history 
+   52  vim.bach_
+   53  exid
+   54  exit
+   55  ls -a
+   56  vim .bash_
+   57  history 
+   58  vim .bash_
+   59  history 
+   60  history > history_Clase2.txt
+   61  ls -l
+   62  mount
+   63  ip -4 addr
+   64  ssh l2uk@10.124.18.137
+   65  tree
+   66  scp l2uk@10.124.18.137:walter .
+   67  scp l2uk@10.124.18.137:/etc/network/interface ../
+   68  ls -la | head
+   69  scp l2uk@10.124.18.137:/etc/network/passwd ../
+   70  test1
+   71  test1>
+   72  /test1
+   73  /test1 >
+   74  ls 
+   75  test
+   76  pwd
+   77  ls -la
+   78  cd test
+   79  scp l2uk@10.124.18.137:/etc/network/interface ../
+   80  scp l2uk@10.124.18.137:/etc/network/passwd ../
+   81  pwd
+   82  cd ..
+   83  ls
+   84  cd test
+   85  scp l2uk@10.124.18.137:/etc/network/passwd ./
+   86  scp l2uk@10.124.18.137:/etc/network/interfaces .
+   87  tree
+   88  ip -4 addr
+   89  apt-get install tree
+   90  sudo apt-get install tree
+   91  tree -l 1 /
+   92  cd /usr/share/doc/tr
+   93  exit
+   94  wget https://ftp.drupal.org/files/projects/drupal-7.43.tar.gz
+   95  ls
+   96  apt-cache search openssh | less
+   97  sudo apt-cache search openssh | server
+   98  sudo apt-get install mysql php5 apache2 php5-mysql
+   99  sudo apt-get install mysql php5 apache2 php5 mysql-server
+  100  sudo apt-get install mysql php5 apache2 php5-mysql-server
+  101  sudo apt-get install mysql php5 apache2 php5 mysql-server
+  102  sudo apt-get install mysql-server php5 apache2 php5 mysql
+  103  sudo apt-get install mysql-server php5 apache2 php5-mysql
+  104  sudo 
+  105  ps aux | grep apa
+  106  ps aux | grep mys
+  107  ps aux | grep mysq
+  108  sudo apt-get install mysql-server
+  109  #tar -xzf drupal -7 
+  110  sudo -su
+  111  su -
+  112  cd /var/www/
+  113  ls
+  114  sudo su -
+  115  exit
+  116  tree
+  117  /var/www# tree
+  118  vim html/index.html
+  119  /var/www/html# ls -l
+  120  /var/www/html# ls -
+  121  /var/www/html# ls 
+  122  sudo -su
+  123  sudo - s
+  124  sudo - su
+  125  sudo -su
+  126  sudo - su
+  127  sudo - s
+  128  exit
+  129  cd /var/www/
+  130  /var/www/html#
+  131  cd /var/www/html
+  132  cd
+  133  exit
+  134  wget https://ftp.drupal.org/files/projects/drupal-7.43.tar.gz
+  135  cd /home
+  136  wget https://ftp.drupal.org/files/projects/drupal-7.43.tar.gz
+  137  cd+}
+  138  cd
+  139  ls-l
+  140  ls -l
+  141  sudo su-
+  142  cd /var/www
+  143  pwd
+  144  ls -l
+  145  exit
+  146  sudo su -
+  147  }
+  148  sudo / s
+  149  sudo - s
+  150  sudo -s
+  151  lscpu
+  152  less /proc/cpuinfo
+  153  sudo su -
+  154  sudo apt-get install git
+  155  demsty
+  156  demst
+  157  dmesg 
+  158  mkdir  LX1_mario
+  159  cd / LX1_mario/
+  160  cd /LX1_mario/
+  161  exit
+  162  cd LX1_mario
+  163  git init
+  164  history >history
+  165  ls
+  166  ls -la
+  167  touch file1
+  168  touch file2
+  169  mkdir dir1
+  170  dir1/file1
+  171  git add history
+  172  git status 
+  173  git commit  -m "Inicializacion del arbol de desarrollo"
+  174  git config --global user.email "maalberto17@gmail.com"
+  175  git config --global user.name "Mario Alfaro V"
+  176  git status
+  177  git commit  -m "Inicializacion del arbol de desarrollo"
+  178  git commit --amend  -reset -auto
+  179  git commit --amend  -reset auto
+  180  git commit --amend  -resetauto
+  181  ls -la
+  182  tree
+  183  cat $HOSTMANE
+  184  cat $hostname
+  185  history >history 
+  186  ls -l
+  187  history >history.server01
+  188  echo $HOSTNAME
+  189  LS -L
+  190  ls -l
+  191  mkdir history
+  192  tree
+  193  git status
+  194  git commit  -m "Inicializacion del arbol de desarrollo"
+  195  git commit --amend --reset-author 
+  196  ls -la
+  197  ls -l
+  198  mv history > history.$HOSTMAN
+  199  mv history > history.$HOSTNAME
+  200  mv history > history.server01
+  201  ls
+  202  git status
+  203  dmasg | tail >file2
+  204  dmesg | tail >file2
+  205  netstat -atunpl
+  206  netstat -atunpl #escucha los servidores
+  207  netstat -atunpl > dir1/file1
+  208  tree
+  209  ls -lh
+  210  netstat -atunpl > dir1/file3
+  211  ls -lh
+  212  git add dir1/file2
+  213  git add dir1/file1
+  214  git status
+  215  git commit -m "Cabeza del kernel + estado de conexiones"
+  216  git cheout
+  217  git status 
+  218  tree
+  219  git status
+  220  netstat -r
+  221  netstat -r >> file2
+  222  git status
+  223  git add file2
+  224  git add history
+  225  git status
+  226  git commit  -m "Tabla de enrutamiento del servidor"
+  227  git commit 
+  228  git status
+  229  tree
+  230  git remote add repo.github https://github.com/maritox/LX1_mario.git
+  231  git remote -v
+  232  git push -u repo.github master
+  233  git remote add repo.github https://github.com/maritox/LX1_mario.git
+  234  git push -u repo.github master
+  235  /LX1_mario# cd /tmp/
+  236  /LX1_mario cd /tmp/
+  237  ls -l
+  238  cd
+  239  cd LX1_mario/
+  240  history 
+  241  history > history.server01
+  242  git status
+  243  history > history.server01
